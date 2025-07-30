@@ -2,3 +2,4 @@
 "Shalu"
 "Computer Science"
 "Social Science"
+"Mathematics"
